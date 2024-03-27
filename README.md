@@ -10,7 +10,9 @@ cd nodojs-backend-template
 
 ```
 npm install 
+```
 or
+```
 bun install
 ```
 

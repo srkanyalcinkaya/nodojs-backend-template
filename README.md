@@ -19,13 +19,17 @@ Edit .env.example and start backend
 !development
 ```
 bun dev 
+```
 or
+```
 npm run dev
 ```
 !production
 ```
 bun run start
+```
 or
+```
 npm run start
 ```
 
